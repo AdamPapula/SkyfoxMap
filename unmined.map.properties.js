@@ -11,8 +11,8 @@ var UnminedMapProperties = {
     worldName: "New World",
     background: "",
     markers: new Array(),
-    enableGrid: true,
-    showGrid: true,
+    enableGrid: false,
+    showGrid: false,
     centerX: -4600,
     centerZ: -6400
 }
